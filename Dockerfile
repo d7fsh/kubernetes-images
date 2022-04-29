@@ -1,1 +1,1 @@
-FROM bitnami/kube-state-metrics:latest
+FROM eipwork/kuboard:v3
