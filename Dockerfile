@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.6.1
+docker.elastic.co/elasticsearch/elasticsearch:7.16.3
