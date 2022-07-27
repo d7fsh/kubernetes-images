@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana:7.16.3
+FROM maven:3.6-openjdk-17
