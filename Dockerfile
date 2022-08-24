@@ -1,1 +1,1 @@
-FROM maven:3.6-openjdk-17
+FROM ubuntu:20.04
