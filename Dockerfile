@@ -1,1 +1,1 @@
-FROM  registry.k8s.io/metrics-server/metrics-server:v0.6.3
+FROM  node:18.16.0-alpine
