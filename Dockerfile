@@ -1,1 +1,1 @@
-FROM  node:18.16.0-alpine
+FROM openjdk:17.0.2-oraclelinux8
