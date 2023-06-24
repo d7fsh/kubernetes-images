@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/opentelemetry:v20230527
+FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
