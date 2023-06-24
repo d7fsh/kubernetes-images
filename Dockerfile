@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
+FROM registry.k8s.io/defaultbackend-amd64:1.5
