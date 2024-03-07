@@ -1,1 +1,1 @@
-FROM docker.io/apache/dolphinscheduler-worker:3.2.1
+FROM docker.io/apache/dolphinscheduler-api:3.2.1
