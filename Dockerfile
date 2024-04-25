@@ -1,1 +1,1 @@
-FROM docker.io/apache/dolphinscheduler-tools:3.2.1
+FROM docker.io/mysql:8.0.36
