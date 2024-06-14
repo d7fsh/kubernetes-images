@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+FROM gitlab/gitlab-ee:16.10.7-ee.0
