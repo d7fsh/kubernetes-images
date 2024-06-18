@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ee:15.11.13-ee.0
+FROM gitlab/gitlab-ee:13.12.15-ee.0
