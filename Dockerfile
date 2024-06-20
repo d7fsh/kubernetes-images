@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ee:16.11.4-ee.0
+FROM infiniflow/ragflow-base:v2.0
