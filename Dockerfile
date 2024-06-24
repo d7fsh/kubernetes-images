@@ -1,1 +1,1 @@
-FROM mouday/domain-admin:latest
+FROM mouday/domain-admin:v1.6.33
