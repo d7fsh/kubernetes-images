@@ -1,1 +1,1 @@
-FROM infiniflow/ragflow-base:v2.0
+FROM mouday/domain-admin:latest
