@@ -1,1 +1,1 @@
-FROM mouday/domain-admin:v1.6.33
+FROM milvusdb/milvus:v2.4.5
