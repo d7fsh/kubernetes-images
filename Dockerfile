@@ -1,1 +1,1 @@
-FROM gerritcodereview/gerrit:3.10.2-ubuntu22
+FROM grafana/grafana:9.3.16
