@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-ee:17.2.9-ee.0
+FROM gerritcodereview/gerrit:3.10.2-ubuntu22
