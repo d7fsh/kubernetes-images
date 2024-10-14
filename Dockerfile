@@ -1,1 +1,1 @@
-FROM jimmidyson/configmap-reload:0.9.0
+FROM jimmidyson/configmap-reload:v0.9.0
