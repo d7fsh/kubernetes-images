@@ -1,1 +1,1 @@
-FROM jimmidyson/configmap-reload:v0.9.0
+FROM node:14.21.3
