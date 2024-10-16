@@ -1,1 +1,1 @@
-FROM mysql:5.7
+FROM nacos/nacos-mysql:5.7
