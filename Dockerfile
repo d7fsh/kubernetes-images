@@ -1,1 +1,1 @@
-FROM eipwork/kuboard:v3
+FROM nacos/nacos-server:v2.2.3
