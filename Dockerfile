@@ -1,1 +1,1 @@
-FROM sonatype/nexus3:3.70.3
+FROM kibana:6.8.11
