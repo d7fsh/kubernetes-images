@@ -1,1 +1,1 @@
-FROM bitnami/redis:6.2.7-debian-11-r11
+FROM node:21.7.3
