@@ -1,1 +1,1 @@
-FROM bitnami/kubectl:1.25.2-debian-11-r6
+FROM bitnami/kafka-exporter:1.6.0-debian-11-r17
