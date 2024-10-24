@@ -1,1 +1,1 @@
-FROM node:18.18.2
+FROM bitnami/zookeeper:3.8.0-debian-11-r56
