@@ -1,1 +1,1 @@
-FROM bitnami/zookeeper:3.8.0-debian-11-r56
+FROM bitnami/bitnami-shell:11-debian-11-r51
