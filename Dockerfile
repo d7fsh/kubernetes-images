@@ -1,1 +1,1 @@
-FROM bitnami/bitnami-shell:11-debian-11-r51
+FROM xuxueli/xxl-job-admin:2.4.1
