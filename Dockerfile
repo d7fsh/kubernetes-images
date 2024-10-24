@@ -1,1 +1,1 @@
-FROM xuxueli/xxl-job-admin:2.4.1
+FROM bitnami/mysql:8.0.40-debian-12-r1
