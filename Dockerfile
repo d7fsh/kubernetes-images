@@ -1,1 +1,1 @@
-FROM bitnami/mysql:8.0.40-debian-12-r1
+FROM docker.io/provectuslabs/kafka-ui:master
