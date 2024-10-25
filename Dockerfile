@@ -1,1 +1,1 @@
-FROM docker.io/provectuslabs/kafka-ui:master
+FROM minio/minio:RELEASE.2023-10-24T05-18-28Z
