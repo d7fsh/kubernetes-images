@@ -1,1 +1,1 @@
-FROM sonarqube:community
+FROM postgres:15
