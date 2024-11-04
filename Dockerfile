@@ -1,1 +1,1 @@
-FROM bitnami/fluentd:1.17.1-debian-12-r2
+FROM node:16.20.2
