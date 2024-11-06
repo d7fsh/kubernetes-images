@@ -1,1 +1,1 @@
-FROM node:16.20.2
+FROM plugins/sonarqube-scanner:v2.4.2
