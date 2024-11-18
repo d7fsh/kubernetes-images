@@ -1,1 +1,1 @@
-FROM plugins/sonarqube-scanner:v2.4.2
+FROM jumpserver/lion:v4.3.1-ce
