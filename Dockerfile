@@ -1,1 +1,1 @@
-FROM bitnami/kafka:4.0.0
+FROM bitnami/zookeeper:3.9.3
