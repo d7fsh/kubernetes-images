@@ -1,1 +1,1 @@
-FROM bitnami/zookeeper:3.9.3
+FROM centos:7
