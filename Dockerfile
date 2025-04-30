@@ -1,1 +1,1 @@
-FROM centos:7
+FROM jertel/elastalert2:2.24.0
