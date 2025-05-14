@@ -1,1 +1,1 @@
-FROM istio/galley:1.4.8
+FROM istio/proxyv2:1.4.8
