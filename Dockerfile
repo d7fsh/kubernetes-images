@@ -1,1 +1,1 @@
-FROM istio/pilot:1.4.8
+FROM istio/sidecar_injector:1.4.8
