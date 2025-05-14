@@ -1,1 +1,1 @@
-FROM jaegertracing/jaeger-collector:1.17
+FROM jaegertracing/jaeger-operator:1.17.1
