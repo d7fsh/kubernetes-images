@@ -1,1 +1,1 @@
-FROM jertel/elastalert2:2.24.0
+FROM istio/galley:1.4.8
