@@ -1,1 +1,1 @@
-FROM istio/mixer:1.4.8
+FROM jaegertracing/jaeger-collector:1.17
