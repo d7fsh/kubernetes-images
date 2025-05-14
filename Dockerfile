@@ -1,1 +1,1 @@
-FROM istio/sidecar_injector:1.4.8
+FROM istio/mixer:1.4.8
