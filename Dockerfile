@@ -1,1 +1,1 @@
-FROM jaegertracing/jaeger-agent:1.17
+FROM postgres:12.22
