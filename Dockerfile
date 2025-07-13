@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.504.3-lts
+FROM sonatype/nexus3:3.82.0
