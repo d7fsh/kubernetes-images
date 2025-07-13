@@ -1,1 +1,1 @@
-FROM postgres:12.22
+FROM jenkins/jenkins:2.504.3-lts
