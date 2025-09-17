@@ -1,1 +1,1 @@
-FROM sonatype/nexus3:3.82.0
+FROM langgenius/dify-api:1.8.1
