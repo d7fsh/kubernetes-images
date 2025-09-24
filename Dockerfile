@@ -1,1 +1,1 @@
-FROM langgenius/dify-web:1.8.1
+FROM docker.io/seataio/seata-server:latest
