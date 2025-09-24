@@ -1,1 +1,1 @@
-FROM docker.io/seataio/seata-server:latest
+FROM docker.io/apache/seata-server:latest
