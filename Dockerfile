@@ -1,1 +1,1 @@
-FROM docker.io/apache/seata-server:latest
+FROM apacherocketmq/rocketmq-dashboard:latest
