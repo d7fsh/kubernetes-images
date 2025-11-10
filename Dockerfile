@@ -1,1 +1,1 @@
-FROM quay.io/ascend/vllm-ascend:v0.10.2rc1
+FROM maven:3-eclipse-temurin-8
