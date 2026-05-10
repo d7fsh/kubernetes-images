@@ -1,1 +1,1 @@
-FROM node:20
+FROM jenkins/jenkins:2.555.1-jdk21
