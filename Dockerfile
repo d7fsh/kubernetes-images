@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.555.1-jdk21
+FROM eclipse-temurin:17.0.17_10-jdk
