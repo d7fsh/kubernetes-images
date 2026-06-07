@@ -1,1 +1,1 @@
-FROM eclipse-temurin:17.0.17_10-jdk
+FROM eclipse-temurin:8-jdk-ubi10-minimal
