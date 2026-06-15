@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-ubi10-minimal
+FROM postgres:15
