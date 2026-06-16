@@ -1,1 +1,1 @@
-FROM redis:7-alpine
+FROM minio/minio:latest
