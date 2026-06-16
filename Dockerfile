@@ -1,1 +1,1 @@
-FROM postgres:16-alpine
+FROM redis:7-alpine
