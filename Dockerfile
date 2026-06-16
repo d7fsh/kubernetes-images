@@ -1,1 +1,1 @@
-FROM nginx:1.25-alpine
+FROM php:8.3-cli-alpine
