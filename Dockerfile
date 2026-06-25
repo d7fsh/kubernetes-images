@@ -1,1 +1,1 @@
-FROM php:8.3-cli-alpine
+FROM nacos/nacos-peer-finder-plugin:1.1
