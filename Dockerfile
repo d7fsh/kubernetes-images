@@ -1,1 +1,1 @@
-FROM mysql:5.7
+FROM python:3.14-slim
